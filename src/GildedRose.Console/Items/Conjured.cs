@@ -1,6 +1,6 @@
 ﻿namespace GildedRose.Console.Items
 {
-    public class Congured : UpdatableItem
+    public class Conjured : UpdatableItem
     {
         public override void UpdateItem()
         {
